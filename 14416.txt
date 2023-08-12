@@ -1,0 +1,27 @@
+Judul : UTS
+Nama  : ISA IANT MAULANA
+NIM   : A11.2022.14416
+Tgl   : 25 10 22
+
+int <--- x,y,d,jumlah
+
+ x=3
+    while (x<40)
+    
+        Output x
+
+    Jika (x habis dibagi 0) maka
+    
+        d=d+1
+        jumlah=jumlah+x
+        Jika (x habis dibagi 8)
+        
+        y=y+1;
+        x=x+3;
+    
+    Output <--- Ada berapa jumlah bil genap
+    Output <--- d
+    Output <--- Berapa total jumlah bil genapnya
+    Output <--- jumlah
+    Output <--- Ada berapa bilangan genap yang habis (tidak ada sisa) jika dibagi 8
+    Output <--- y
